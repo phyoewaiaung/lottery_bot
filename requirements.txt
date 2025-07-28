@@ -2,6 +2,4 @@ python-telegram-bot==20.7
 requests==2.31.0
 numpy==1.24.3
 matplotlib==3.7.2
-asyncio
-logging
 python-dotenv==1.0.0
